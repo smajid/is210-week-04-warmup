@@ -3,7 +3,4 @@
 """A file that will use raw input function."""
 
 
-HOMEWORK_DONE = raw_input('Have you finished your assignment? ')
-ANSWER = '{}'
-MY_ANSWER = ANSWER.format(HOMEWORK_DONE)
-print MY_ANSWER
+MY_ANSWER = raw_input('Have you finished your assignment? ')
